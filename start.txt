@@ -1,0 +1,22 @@
+nothing imported:
+dist/assets/index-8daf05de.css                         32.61 kB │ gzip: 5.67 kB
+dist/assets/index-34c88688.js                          11.41 kB │ gzip: 4.66 kB
+
+with just imports:
+import "@patternfly/pfe-accordion";
+import "@patternfly/pfe-button";
+dist/assets/index-8daf05de.css                         32.61 kB │ gzip:  5.67 kB
+dist/assets/index-a69f30da.js                          94.44 kB │ gzip: 20.92 kB
+
+with just imports:
+import "@patternfly/elements/pf-x-button/pf-x-button.js";
+import "@patternfly/elements/pf-x-accordion/pf-x-accordion.js";
+import "@patternfly/elements/pf-x-accordion-content/pf-x-accordion-content.js";
+import "@patternfly/elements/pf-x-accordion-toggle/pf-x-accordion-toggle.js";
+import "@patternfly/elements/pf-x-accordion-item/pf-x-accordion-item.js";
+dist/assets/index-9674e3e9.css                         87.49 kB │ gzip: 10.73 kB
+dist/assets/index-69afa55e.js                          36.77 kB │ gzip: 13.79 kB
+
+with @patternfly/react-core components
+dist/assets/index-9674e3e9.css                         87.49 kB │ gzip: 10.73 kB
+dist/assets/index-9a94405c.js                          30.77 kB │ gzip: 11.72 kB
