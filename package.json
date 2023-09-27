@@ -20,6 +20,7 @@
     "preact": "^10.16.0"
   },
   "devDependencies": {
+    "@patternfly/patternfly": "^5.0.4",
     "@preact/preset-vite": "^2.5.0",
     "@types/preact-custom-element": "^4.0.1",
     "preact-custom-element": "^4.2.1",
