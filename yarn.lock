@@ -401,7 +401,7 @@
     "@lit-labs/ssr-dom-shim" "^1.0.0"
 
 "@patternfly/elements@file:../patternfly-elements/elements":
-  version "5.0.9"
+  version "10.0.0"
   dependencies:
     "@patternfly/icons" "^1.0.2"
     "@patternfly/pfe-core" "^2.4.0"
@@ -412,6 +412,11 @@
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/@patternfly/icons/-/icons-1.0.2.tgz#b3eda06bf1f580494bbdad1e73b96b79003dbe5f"
   integrity sha512-/faOTZsKkTPxuCDcWZbunknjUhJIjjN0h+OicNiFWxTq/saLp366cLhdgNf8A46oeGR/21aQTYVXTqcQA1yvOg==
+
+"@patternfly/patternfly@^5.0.4":
+  version "5.0.4"
+  resolved "https://registry.yarnpkg.com/@patternfly/patternfly/-/patternfly-5.0.4.tgz#d61dc3bcbd0513d46ca969a3d206036bcedaeca8"
+  integrity sha512-8akdWzFpG384Q6Es8lzkfuhAlzVGrNK7TJqXGecHDAg8u1JsYn3+Nw6gLRviI88z8Kjxmg5YKirILjpclGxkIA==
 
 "@patternfly/pfe-accordion@^1.12.3":
   version "1.12.3"
